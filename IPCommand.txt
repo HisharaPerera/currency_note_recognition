@@ -1,0 +1,2 @@
+python match.py --template 1.png --images images1
+python match.py --template 1.png --images images1 --visualize 1
